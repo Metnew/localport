@@ -1,0 +1,22 @@
+{
+  "name": "localport",
+  "version": "0.0.1",
+  "description": "Enumerate local ports easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "localport": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metnew/localport.git"
+  },
+  "author": "Vladimir Metnew <vladimirmetnew@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Metnew/localport/issues"
+  },
+  "homepage": "https://github.com/Metnew/localport#readme"
+}
